@@ -5,7 +5,7 @@ Ashish Singh Chauhan|ashishsinghchauhan098@gmail.com|https://github.com/ashu-22
 Profession:
 Since 2012 - Software Engineer at Zyro Technology Solutions Private Limited Bangalore Tvs Nagar Bellandur 560068
 2015 - Created a Simple Struts 2 Project with the Help Of LucazLenart who developed the API of this project for Struts 2 applications.
-2014 - Created a Project for Burlington SantaFe Railway.This Project is been used for getting all the news for the passengers who want to migrate from one city to another city.They did not know about any information about regarding this project.Developed this project with the help Of Java Based Application.
+2014 - Created a Project for Burlington SantaFe Railway.This Project is been used for getting all the news for the passengers who want to migrate from one city to another city.Developed this project with the help Of Java Based Application.
 
 College:
 Bachelor's Degree in Computer Science & Engg. | Rajiv Gandhi Technical University
