@@ -67,3 +67,8 @@ Front End : In front end coding we used the Java
 and J2ME .    
 Back End : In Back end coding we used the Ms                                                                                       n               Access and M.I.D.P. 
 Services and Tools : NetBeans,JpegImage Generator etc
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/ashu-22/ashu-22-resume/badge.svg?style=beer-square)](https://beerpay.io/ashu-22/ashu-22-resume)  [![Beerpay](https://beerpay.io/ashu-22/ashu-22-resume/make-wish.svg?style=flat-square)](https://beerpay.io/ashu-22/ashu-22-resume?focus=wish)
